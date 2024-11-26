@@ -18,7 +18,7 @@ body {
 
 /* Header */
 header {
-    background: url('/assets/equilibrio.jpg') no-repeat center center;
+    background: url('./assets/equilibrio.jpg') no-repeat center center;
     background-size: cover;
     padding: 150px 80px;
     text-align: center;
